@@ -1,0 +1,4 @@
+org\manipal\pageObjects\HomePage.class
+org\manipal\pageObjects\MobilePage.class
+org\manipal\base\BaseConfigurations.class
+org\manipal\pageObjects\MenuPage.class
